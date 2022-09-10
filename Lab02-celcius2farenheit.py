@@ -1,0 +1,5 @@
+# tendendicias e innovacion de tecnologias agricolas (TEA)
+print("Calculo de celcius a farenhiet")
+Celcius = input("ingrese su temperatura en Celcius: ")
+Total = (float(Celcius) *9/5) + float(32)
+print("Su temperatura en Farenhiet es: ", Total)
